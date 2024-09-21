@@ -16,13 +16,12 @@ Esta página web es una experiencia interactiva y visualmente atractiva donde se
 - **Letra de la canción sincronizada**: El proyecto cuenta con una canción relacionada con las flores amarillas y la letra aparece sincronizada con la música.
 - **Diseño romántico**: Todo está pensado para que la experiencia sea lo más agradable y amorosa posible.
   
-## Capturas de Pantalla
+## Capturas de Pantalla 
 
 ![Captura 1 - Página principal](img/Inicio.png)
 
 ![Captura 2 - Animación de las flores](img/Animacion.png)
 
-*Nota: Puedes agregar tus propias capturas de pantalla en los espacios proporcionados.*
 
 ## Contexto del 21 de Septiembre y las Flores Amarillas
 
