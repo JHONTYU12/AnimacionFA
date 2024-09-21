@@ -1,4 +1,4 @@
-# 🌻 Página Animada de Entrega de Flores Amarillas 🌻
+# Página Animada de Entrega de Flores Amarillas 🌻
 
 > **Creador:** Josue Peralta  
 > **Fecha de creación:** 21 de septiembre de 2024  
